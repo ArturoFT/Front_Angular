@@ -1,0 +1,16 @@
+
+.dialogContent {
+  /* Form */
+  width: 200px;
+  height: 80px;
+  background-color: #FFFFFF;
+
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 12px;
+  /* External padding */
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
